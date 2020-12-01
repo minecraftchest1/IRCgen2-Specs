@@ -10,3 +10,5 @@ IRCgen2 is a rewrite of IRC. Currently, IRC is a bunch of RFC's defining specs t
 
 A compability target is a set of features that are in a group. The goal is that each client will support one or more compability targets in common with the server and other clients. Each compability target may also group other targets.
 
+# Transport
+IRCg2 will use a raw TCP or UDP socket the same as IRC. Extensions may be made that uses other protocols such as HTTP as a transport as well.
