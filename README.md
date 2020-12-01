@@ -6,6 +6,7 @@ IRCgen2 is a rewrite of IRC. Currently, IRC is a bunch of RFC's defining specs t
 
 # How the specs are organized.
 ## Compability Targets
-** This section is not yet complete. **
+** This section may change withou notice. **
 
-A compability target is a set of features that are in a group. The goal is that each client will support one or more compability targets in common with the server and other clients.
+A compability target is a set of features that are in a group. The goal is that each client will support one or more compability targets in common with the server and other clients. Each compability target may also group other targets.
+
