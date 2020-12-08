@@ -1,5 +1,5 @@
 ```
-IRCg2 @target=1 @messageID=1 @from=Minecraftchest1 @channel=#Example @message="(This is an example message.)" /endmsg/
+IRCg2 @meta="(messagetype=string messagelength=28)" @target=1 @messageID=1 @from=Minecraftchest1 @channel=#Example @message="(This is an example message.)" /endmsg/
 ```
 `IRCg2` Specfies that the message is using the IRCg2 message spec.
 
