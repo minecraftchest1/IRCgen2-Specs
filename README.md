@@ -1,3 +1,6 @@
+# Archive Notice
+I have discontinued this project as I have not done any work on it recently, and due to the fact that Matrix does the same as what this spec was intended to do.
+
 # IRCgen2-Specs
 Specs for second generation of IRC
 
